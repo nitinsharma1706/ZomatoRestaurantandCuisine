@@ -311,7 +311,7 @@ y_test
 # In[78]:
 
 
-filename = 'price_predictor'
+filename = 'price_predictor.pkl'
 pickle.dump(rc_final, open(filename,'wb'))
 
 
