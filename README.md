@@ -1,6 +1,6 @@
 # ZomatoRestaurantandCuisine
 <p>
-  <img src="https://drive.google.com/uc?export=download&id=1Bd49vSfj1TPXnApPAm60ZOsJncv-rdSR" width="400">
+  <img src="https://drive.google.com/uc?export=download&id=1Bd49vSfj1TPXnApPAm60ZOsJncv-rdSR" width="800">
 </p>
 
 ## Introduction
@@ -12,6 +12,29 @@
 - Saving Time and Effort in Searching for Restaurants.
 - Providing Comprehensive Restaurant Information.
 - Analyzing Restaurant Data for Insights.
+## Data Description
+
+- Table 1: Restaurant_info
+
+| Attribute       | Description                                                       |
+|-----------------|-------------------------------------------------------------------|
+| restaurant_id   | Unique ID to identify the restaurant (Primary Key)                 |
+| restaurant_link | Zomato URL for that restaurant                                    |
+| name            | Name of the restaurant                                            |
+| rating          | Rating of the restaurant on Zomato                                |
+| price           | Price of one person                                               |
+| cuisines        | Types of cuisine offered by the restaurant                        |
+
+- Table 2: Restaurant_details
+
+| Attribute                | Description                                                        |
+|--------------------------|--------------------------------------------------------------------|
+| restaurant_id            | Unique ID to identify the restaurant (Primary Key)                  |
+| restaurant_name          | Name of the restaurant                                             |
+| latitude                 | Latitude coordinates of the restaurant                             |
+| longitude                | Longitude coordinates of the restaurant                            |
+| location                 | Location of the restaurant                                         |
+| delivery_review_number   | Number of people who have reviewed the delivery service of the restaurant  |
 
 ## Methodology
 
