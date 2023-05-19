@@ -44,7 +44,7 @@ The following methodology was used to accomplish the project objectives:
 
 - **Data Cleaning:** Apply data cleaning techniques to ensure the accuracy and reliability of the extracted data. Handle missing values, remove duplicates, and standardize the data for further analysis.
 
-- **Data Visualization:** Apply data cleaning techniques to ensure the accuracy and reliability of the extracted data. Handle missing values, remove duplicates, and standardize the data for further analysis.
+- **Data Analysing and Visualization:** conduct an analysis to determine the number of restaurants based on their location and cuisine. By visualizing the results through charts, and graphs.This analysis provided valuable insights for both users and restaurant owners, enabling them to make informed decisions. 
   <p align=center>
      <img src="https://drive.google.com/uc?export=download&id=1hToqj4ug8Jjbgj57GQleYCaQQ6qEH4mp" width="600">
   </p>
