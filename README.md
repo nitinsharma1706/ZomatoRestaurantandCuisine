@@ -51,3 +51,8 @@ The following methodology was used to accomplish the project objectives:
 - **Prediction and Recommendation:** Utilize the trained machine learning model to predict the cuisine and price range based on user preferences. Provide personalized restaurant recommendations that align with the user's input.
 
 - **Display Results:** Present the recommended restaurants to the user through the web interface. Display additional details such as restaurant names, locations, ratings, and cuisines to assist the user in making an informed decision.
+## Results
+<p>
+  <img src="https://drive.google.com/uc?export=download&id=1qoVP3s4almI1duLkqwZGO0opWjcBz1iF" >
+</p>
+
