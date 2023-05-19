@@ -52,6 +52,7 @@ The following methodology was used to accomplish the project objectives:
 
 - **Display Results:** Present the recommended restaurants to the user through the web interface. Display additional details such as restaurant names, locations, ratings, and cuisines to assist the user in making an informed decision.
 ## Results
+### This is webpage that will take input from users and generate output according to user search.
 <p>
   <img src="https://drive.google.com/uc?export=download&id=1qoVP3s4almI1duLkqwZGO0opWjcBz1iF" >
 </p>
