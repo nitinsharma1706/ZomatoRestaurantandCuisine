@@ -56,3 +56,9 @@ The following methodology was used to accomplish the project objectives:
   <img src="https://drive.google.com/uc?export=download&id=1qoVP3s4almI1duLkqwZGO0opWjcBz1iF" >
 </p>
 
+## Limitations and Challenges
+- **Real-time Data Updates**: The project utilizes a specific dataset at a given point in time. However, restaurant information, ratings, and prices are subject to change over time. Therefore, the project may not reflect real-time updates and changes in the restaurant data.
+
+- **Dependency on Zomato**: The project heavily relies on the Zomato platform and its data availability. Any changes in Zomato's policies, terms of service, or access to data may impact the project's functionality and data retrieval process.
+
+- **Webscrapping**:The main challenge in the Zomato project was the limited knowledge of Selenium for web scraping. Extensive research and learning were required to overcome errors and obstacles encountered during the scraping process. With perseverance and continuous learning, the challenges were overcome, leading to successful data extraction from the Zomato website.
