@@ -1,4 +1,4 @@
-# ZomatoRestaurantandCuisine
+# Project Name: ZomatoRestaurantandCuisine
 <p>
   <img src="https://drive.google.com/uc?export=download&id=1Bd49vSfj1TPXnApPAm60ZOsJncv-rdSR" width="800">
 </p>
@@ -44,7 +44,23 @@ The following methodology was used to accomplish the project objectives:
 
 - **Data Cleaning:** Apply data cleaning techniques to ensure the accuracy and reliability of the extracted data. Handle missing values, remove duplicates, and standardize the data for further analysis.
 
-- **Machine Learning Model:** Train a Random Forest model using the cleaned data. The model will learn from the features such as restaurant attributes, ratings, and prices to predict the cuisine and price range of restaurants.
+- **Data Visualization:** Apply data cleaning techniques to ensure the accuracy and reliability of the extracted data. Handle missing values, remove duplicates, and standardize the data for further analysis.
+  <p align=center>
+     <img src="https://drive.google.com/uc?export=download&id=1hToqj4ug8Jjbgj57GQleYCaQQ6qEH4mp" width="600">
+  </p>
+  <h5 align=center>
+   No of Restaurant by Cuisines
+  <h5>
+  
+  <p align=center>
+    <img src="https://drive.google.com/uc?export=download&id=1vXun2e6VjuBSRrpDKd9zcfGW9CvPSprh" width="600">
+  </p>
+  <h5 align=center>
+    No of Restaurant by location 
+  <h5>
+   <br />
+
+ - **Machine Learning Model:** Train a Random Forest model using the cleaned data. The model will learn from the features such as restaurant attributes, ratings, and prices to predict the cuisine and price range of restaurants.
 
 - **Web Interface Development:** Create a user-friendly web page using Streamlit or a similar framework. Design an interface where users can input their cuisine and price preferences.
 
