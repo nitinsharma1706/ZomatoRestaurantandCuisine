@@ -1,6 +1,6 @@
 # Project Name: ZomatoRestaurantandCuisine
 <p>
-  <img src="https://drive.google.com/uc?export=download&id=1Bd49vSfj1TPXnApPAm60ZOsJncv-rdSR" width="800">
+  <img src="https://drive.google.com/uc?export=download&id=1Bd49vSfj1TPXnApPAm60ZOsJncv-rdSR" width="600">
 </p>
 
 ## Introduction
